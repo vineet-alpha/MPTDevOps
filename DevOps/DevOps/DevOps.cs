@@ -18,7 +18,7 @@ namespace DevOps
                 number = int.Parse(Console.ReadLine());
                 Console.Write(n1 + " " + n2 + " "); //printing 0 and 1    
                 for (i = 2; i < number; ++i) //loop starts from 2 because 0 and 1 are already printed 
-                //Change Two
+                //Change Three
 
 
                 {
